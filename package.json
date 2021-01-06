@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@react-native-community/datetimepicker": "^2.4.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "date-fns": "^2.14.0",
     "datetimepicker": "^0.1.39",
     "expo": "~37.0.3",
